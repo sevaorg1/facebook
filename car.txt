@@ -3,4 +3,10 @@ seccond line
 ithird line
 fourth line added
 fifth added
+<<<<<<< HEAD
 sisth line added
+
+extra line added
+newline
+newline2
+
